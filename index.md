@@ -6,8 +6,8 @@ This is currently just a spike to try out github pages as a possible hosting mec
 
 
 ## Possible subjects
-- Pairing, Mobbing and Solo working
-- [Testing](testing.md)
+- [Pairing, Mobbing and Solo working](http://coopdigital.github.io/engineering-handbook/code-collaboration/)
+- Testing
 
 
 
